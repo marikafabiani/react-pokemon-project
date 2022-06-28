@@ -25,6 +25,10 @@
   padding-left: 10px;
 }
 
+.typePokemonText {
+  margin-bottom: 5px;
+}
+
 .imagePokemon {
   display: block;
   margin: 0px auto;
@@ -42,5 +46,5 @@
 }
 
 .movesPokemon li {
-  list-style-type: none;  
+  list-style-type: none;
 }
